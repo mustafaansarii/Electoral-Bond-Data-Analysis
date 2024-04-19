@@ -22,6 +22,7 @@ Finally, the analysis investigates the relationship between electoral bond sales
 ## Results
 The analysis reveals several key findings:
 - The distribution of electoral bond sales varies among political parties, with some parties receiving a significantly higher amount of funds compared to others.
+ ![Percentage of Total Amount Received by Top 10 Parties](/Dataset/party.png)
 - There may be a correlation between electoral bond sales and election outcomes, suggesting a potential influence of financial resources on electoral success.
  ![CR Received per Seat in Lok Sabha](/Dataset/receaved.png)
 ## Conclusion
