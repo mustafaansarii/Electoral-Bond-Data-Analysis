@@ -1,4 +1,4 @@
-# Electoral Bond Analysis Project
+# Electoral Bond Analysis 
 
 ## Overview
 This project aims to analyze the sales of electoral bonds by the State Bank of India (SBI) in relation to the 2019 Member of Parliament (MP) elections in India. The analysis explores the distribution of electoral bond sales among political parties and investigates any correlation between bond sales and election outcomes.
